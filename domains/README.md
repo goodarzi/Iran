@@ -1,0 +1,1 @@
+Iranian non ccTLD(Country code top-level) domain list contains domain names with website location of Iran.
